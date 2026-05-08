@@ -1,0 +1,20 @@
+{
+  "alamona": {
+    "username": "alamona",
+    "password": "alAMONA12345",
+    "student_type": "علمي",
+    "telegram_user_id": "7778067987",
+    "telegram_username": null,
+    "telegram_first_name": "Timen",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_17.jpg",
+    "session_id": "d994c1ca-5f1f-45af-95ee-a970d951368d",
+    "created_at": "2026-05-07T23:35:39.531095",
+    "verified": true,
+    "last_login": "2026-05-07T23:35:43.205967",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 18
+  }
+}
